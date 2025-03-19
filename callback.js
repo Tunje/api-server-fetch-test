@@ -24,6 +24,3 @@ const flipCoin = () => {
 
 
 
-
-
-/*VITE_GOOGLE_MAPS_API_KEY=AIzaSyAIpeZLN4ymq-lbXy6baHko19L95VvNboM*/
